@@ -20,10 +20,6 @@ links:
         url: https://github.com/Kaiyiwing
         img: http://cdn2.webworker.tech/img/avatar/pic-kaiyi.png
         desc: 独立开发者  Qwerty Learner 作者
-      - sitename: 沈青川
-        url: https://github.com/shenQingchuan/
-        img: http://cdn2.webworker.tech/img/avatar/pic-shenqingchuan.png
-        desc: vue-vine作者。vue/vite中文文档
 
   - title: 播客嘉宾
     items:
@@ -115,6 +111,10 @@ links:
         url: https://github.com/innei
         img: http://cdn2.webworker.tech/img/avatar/pic-innei.png
         desc: mx-space作者，独立开发
+      - sitename: 沈青川
+        url: https://github.com/shenQingchuan/
+        img: http://cdn2.webworker.tech/img/avatar/pic-shenqingchuan.png
+        desc: vue-vine作者。vue/vite中文文档
       - sitename: 海老师
         url: https://github.com/HerringtonDarkholme
         img: http://cdn2.webworker.tech/img/avatar/pic-hai.jpeg
@@ -149,4 +149,19 @@ links:
         url: https://twitter.com/simon_he1995
         img: https://cdn.ijust.cc/img/202401162346308.png
         desc: VsCode 插件爱好者
+      # 47
+      - sitename: Aryu
+        url: https://github.com/Yuyz0112
+        img: https://cdn.ijust.cc/img/202404230007635.png
+        desc: rrweb 作者
+      # ruifeng
+      - sitename: 瑞丰
+        url: https://github.com/liruifengv
+        img: https://cdn.ijust.cc/img/202404230008066.png
+        desc: Astro 核心成员
+        #electron caoxiemeihao
+      - sitename: 草鞋没号
+        url:
+        img: https://cdn.ijust.cc/img/202404230010481.png
+        desc: Electron-Vite 作者
 ---
